@@ -5,29 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a7d709c7-bc76-442a-8dd3-ec154f1add80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/CucumberTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Categories.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Getuserinformation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/IndexPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Login.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Register.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/GetallcategoriesStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/IndexStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/LoginStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/RegisterStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/UserInformationStep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Getallcategories.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Getuserinformation.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Index.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Register.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/maven.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/maven.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
