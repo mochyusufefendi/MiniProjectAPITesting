@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7d709c7-bc76-442a-8dd3-ec154f1add80" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/CucumberTestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Categories.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Getuserinformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/IndexPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/Projects/Register.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/GetallcategoriesStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/IndexStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/LoginStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/RegisterStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/starter/stepdefinitions/UserInformationStep.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Getallcategories.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Getuserinformation.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Index.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/Register.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/login.feature" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Gvuy3SyG58uvSflIjIzxbKPs3T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\miniproject\APItesting\src\test\resources\features" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Login with url and body">
+    <configuration name="Feature: login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features.Project/login.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors starter.stepdefinitions.Projects" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APItesting" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: login" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Login with url and body" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/login.feature" />
+      <option name="GLUE" value="net.serenitybdd.cucumber.actors starter.stepdefinitions.Projects" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="APItesting" />
+      <option name="NAME_FILTER" value="^Login with url and body$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Login with url and body$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Login with url and body" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: Login with url and body" />
+        <item itemvalue="Cucumber Java.Feature: login" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d709c7-bc76-442a-8dd3-ec154f1add80" name="Changes" comment="" />
+      <created>1667281632510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667281632510</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
